@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **Piyush90261814@gmail.com**
 
-- 📄 My portfolio website [https://Piyushchaubey7.github.io/](https://Piyushchaubey7.github.io/)
+- 📄 My portfolio website [https://piyushchaubey7.github.io/](https://piyushchaubey7.github.io/)
 
 
 Experienced Java Backend Developer with expertise in Java, Spring Boot, and RESTful APIs. Successfully delivered collaborative projects while demonstrating strong problem-solving skills. A valuable team player with excellent communication skills. Ready to contribute impactful solutions to backend development. I love exploring new technologies and building web applications that make a positive impact.
